@@ -1,9 +1,11 @@
 ### Social Media
-Instagram : @lukman_12_10  <br>
-![gitlab] Gitlab : https://gitlab.com/bellukchips  <br>
-![github] Github : https://github.com/Bellukchips  <br>
+Gitlab : https://gitlab.com/bellukchips  <br>
+Github : https://github.com/Bellukchips  <br>
 Portofolio website : https://portofolio-2a917.web.app
 ### Hi there 👋
 ![SS](https://github.com/Bellukchips/Bellukchips/blob/main/carbon.png)
 ### Stats
-https://github-readme-stats.vercel.app/api?username=bellukchips&show_icons=true&theme=radical
+  <a href="https://github.com/YusufAbdelaziz/">
+    <img width="55%" align="right" alt="Yusuf's github stats" src="https://github-readme-stats.vercel.app/api?username=YusufAbdelaziz&show_icons=true&count_private=true&theme=tokyonight" />
+  </a>
+  
