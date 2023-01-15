@@ -9,7 +9,7 @@ I've learning code since 6 year, and now i collage in Dian Nuswantoro University
 * 🌍  I'm based in Slawi
 * 🖥️  See my portfolio at [My Portofolio](http://https://portofolio-2a917.web.app)
 * ✉️  You can contact me at [muhamadlukman937@gmail.com](mailto:muhamadlukman937@gmail.com)
-* 🧠  I'm learning Flutter & Laravel
+* 🧠  I'm learning Android Native, Flutter & Laravel
 
 <a href="https://www.github.com/Bellukchips" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Bellukchips?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
