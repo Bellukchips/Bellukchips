@@ -7,7 +7,7 @@ Software Engineer From Indonesian
 I've learning code since 6 year, and now i collage in Dian Nuswantoro University in Semarang since 2019
 
 * 🌍  I'm based in Slawi
-* 🖥️  See my portfolio at [My Portofolio](http://https://portofolio-2a917.web.app)
+* 🖥️  See my portfolio at [My Portofolio](https://portofolio-2a917.web.app/)
 * ✉️  You can contact me at [muhamadlukman937@gmail.com](mailto:muhamadlukman937@gmail.com)
 * 🧠  I'm learning Android Native, Flutter & Laravel
 
@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/Bellukchips?logo=github&style=for-t
 Portofolio:
 * <a href="https://play.google.com/store/apps/details?id=com.bellukstudio.flutix"> Flutix</a>
 * <a href="https://play.google.com/store/apps/details?id=com.bellukstudio.create_signature"> Draw Signature</a>
-* <a href="https://play.google.com/store/apps/details?id=com.belluk.movapps&pli=1"> Aplikasi Moview Ticket Demo</a>
+* <a href="https://play.google.com/store/apps/details?id=com.belluk.movapps&pli=1"> Aplikasi Movie Ticket Demo</a>
 * <a href="https://github.com/Bellukchips/freelance_project"> Freelance Project</a>
 * <a href="https://github.com/Bellukchips/penjurian"> Sistem Penjurian</a>
 ### Skills
