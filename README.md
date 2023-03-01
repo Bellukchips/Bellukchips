@@ -19,6 +19,7 @@ Portofolio:
 * <a href="https://play.google.com/store/apps/details?id=com.bellukstudio.create_signature"> Draw Signature</a>
 * <a href="https://play.google.com/store/apps/details?id=com.belluk.movapps&pli=1"> Aplikasi Moview Ticket Demo</a>
 * <a href="https://github.com/Bellukchips/freelance_project"> Freelance Project</a>
+* <a href="https://github.com/Bellukchips/penjurian"> Sistem Penjurian</a>
 ### Skills
 
 
