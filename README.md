@@ -20,8 +20,8 @@ Portofolio:
 * <a href="https://play.google.com/store/apps/details?id=com.belluk.movapps&pli=1"> Aplikasi Movie Ticket Demo</a>
 * <a href="https://github.com/Bellukchips/freelance_project"> Freelance Project</a>
 * <a href="https://github.com/Bellukchips/penjurian"> Sistem Penjurian</a>
-* <a href="https://github.com/Bellukchips/my-portofolio> Web Portofolio</a>
-* <a href="https://drive.google.com/drive/u/0/folders/1_EfuuSuHmHN_18vEe7K7Uq6wZ37GjdDY> MojadiPro (Projek magang)</a>
+* <a href="https://github.com/Bellukchips/my-portofolio"> Web Portofolio</a>
+* <a href="https://drive.google.com/drive/u/0/folders/1_EfuuSuHmHN_18vEe7K7Uq6wZ37GjdDY"> MojadiPro (Projek magang)</a>
 ### Skills
 
 
