@@ -7,7 +7,7 @@ Software Engineer From Indonesian
 I've learning code since 6 year, and now i collage in Dian Nuswantoro University in Semarang since 2019
 
 * 🌍  I'm based in Slawi
-* 🖥️  See my portfolio at [My Portofolio](https://portofolio-2a917.web.app/)
+* 🖥️  See my portfolio at [My Portofolio](https://portofolio-2a917.web.app/) [New Portofolio](https://bellukstudio.my.id/)
 * ✉️  You can contact me at [lukmancode200@gmail.com](mailto:lukmancode200@gmail.com)
 * 🧠  I'm learning Android Native, Flutter & Laravel
 
