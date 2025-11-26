@@ -1,66 +1,103 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lukman
-==============================================================================================================================
+![Profile Image](img/benner.png)
 
-Software Engineer From Indonesian
----------------------------------
+<h1 align="center">🎓 Muh Lukman akbar Prihandoyo</h1>
 
-I've learning code since 6 year, and now i collage in Dian Nuswantoro University in Semarang since 2019
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello,+I'm+Lukman!;Web+%26+FullStack+Developer;Tech+Enthusiast+%F0%9F%A4%96;Let's+Build+Cool+Stuff!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-* 🌍  I'm based in Slawi
-* 🖥️  See my portfolio at [My Portofolio](https://portofolio-2a917.web.app/) [New Portofolio](https://bellukstudio.my.id/)
-* ✉️  You can contact me at [lukmancode200@gmail.com](mailto:lukmancode200@gmail.com)
-* 🧠  I'm learning Android Native, Flutter & Laravel
+---
 
-<a href="https://www.github.com/Bellukchips" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Bellukchips?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## 👋 About Me
 
-Portofolio:
-* <a href="https://play.google.com/store/apps/details?id=com.bellukstudio.flutix"> Flutix</a>
-* <a href="https://play.google.com/store/apps/details?id=com.bellukstudio.create_signature"> Draw Signature</a>
-* <a href="https://play.google.com/store/apps/details?id=com.belluk.movapps&pli=1"> Aplikasi Movie Ticket Demo</a>
-* <a href="https://github.com/Bellukchips/freelance_project"> Freelance Project</a>
-* <a href="https://github.com/Bellukchips/penjurian"> Sistem Penjurian</a>
-* <a href="https://github.com/Bellukchips/my-portofolio"> Web Portofolio</a>
-* <a href="https://drive.google.com/drive/u/0/folders/1_EfuuSuHmHN_18vEe7K7Uq6wZ37GjdDY"> MojadiPro (Projek magang)</a>
-### Skills
+Mobile & Web Developer with 1+ years of experience in building applications based on Android, Flutter, and Laravel. Experienced with Clean Architecture, API integration, and team collaboration using Git. Focused on efficiency, maintainability, and user experience. Ready to contribute to modern technology development as an Android Developer, Backend Developer, Fullstack Developer, or Web Developer.
 
+---
+## 🎉 Fun Facts
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<p align="center" style="background-color:black;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Versi gelap dan full keren" style="filter: brightness(0.8) drop-shadow(0 0 10px #00ff00);" />
 </p>
 
 
-### Socials
+## 🧠 Skills & 🎧 Spotify Listening
 
-<p align="left"> <a href="https://www.github.com/Bellukchips" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muh-lukman-akbar-prihandoyo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-10">
+  <div class="flex flex-col items-center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,kotlin,nodejs,php,figma,mysql&theme=dark" alt="Skills" class="max-w-full rounded-lg shadow-lg" />
+  </div>
+  <br >
+  <div class="flex flex-col items-center">
+    <a href="https://open.spotify.com/user/314fdf4yxvzmj66jedzzyttt5sua">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=314fdf4yxvzmj66jedzzyttt5sua&count=3" alt="Spotify Recently Played" class="max-w-full rounded-lg shadow-lg" />
+    </a>
+  </div>
+</div>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🔧 Tools & Workflow
 
-<a href="http://www.github.com/Bellukchips"><img src="https://github-readme-stats.vercel.app/api/?username=Bellukchips&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bellukchips's GitHub stats" /></a>
+- 🖥️ Integrated Development Environments: **VS Code**, **Android Studio**
+- 🔍 API Testing: **Postman**, **Swagger**
+- ☁️ Databases: **Firestore**, **MySQL**, **PostgreSQL**, **MongoDB**
+- 🔄 Version Control & Continuous Integration: **Git & GitHub**, **CI/CD with GitHub Actions**,
+- 💻 Framework: **Flutter**, **Laravel**, **NextJS**, **Nest JS**, **Native Kotlin / Java**
 
-<a href="http://www.github.com/Bellukchips"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bellukchips&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
+## 📈 Contribution Graph
 
-<a href="http://www.github.com/Bellukchips"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bellukchips&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div align="center" style="filter: invert(1);">
+  <img src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+</div>
 
-<a href="http://www.github.com/Bellukchips"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellukchips&layout=compact&hide=html"  /></a>
+---
 
-<b>Top Repositories</b>
+## 📊 GitHub Activity Graph
 
-<div width="100%" align="center"><a href="https://github.com/Bellukchips/resource" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/?username=Bellukchips&repo=resource&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BellukChips&theme=github-dark)
+
+---
+
+
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellukChips&layout=compact&theme=dark&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BellukChips&theme=dark&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://instagram.com/lukman_code">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="[https://www.linkedin.com/in/aditya-anugrah](https://www.linkedin.com/in/muh-lukman-akbar-prihandoyo/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+## ❤️ Support Me
+
+<p align="center">
+  <a href="https://github.com/sponsors/BellukChips">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-adityaanugrah-EA4AAA?logo=githubsponsors" alt="GitHub Sponsors - adityaanugrah" />
+  </a>
+</p>
+
+---
+
+> 💬 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
