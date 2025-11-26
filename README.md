@@ -1,4 +1,4 @@
-![Profile Image](img/benner.png)
+
 
 <h1 align="center">🎓 Muh Lukman akbar Prihandoyo</h1>
 
@@ -24,7 +24,7 @@ Mobile & Web Developer with 1+ years of experience in building applications base
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
   <div class="flex flex-col items-center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,kotlin,nodejs,php,figma,mysql&theme=dark" alt="Skills" class="max-w-full rounded-lg shadow-lg" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,kotlin,nodejs,php,figma,mysql,ts,laravel,flutter,nextjs,nestjs,java,tailwindcss&theme=dark" alt="Skills" class="max-w-full rounded-lg shadow-lg" />
   </div>
   <br >
   <div class="flex flex-col items-center">
@@ -48,14 +48,14 @@ Mobile & Web Developer with 1+ years of experience in building applications base
 ## 📈 Contribution Graph
 
 <div align="center" style="filter: invert(1);">
-  <img src="https://raw.githubusercontent.com/AdiityaAnugrah/AdiityaAnugrah/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+  <img src="https://raw.githubusercontent.com/Bellukchips/BellukChips/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </div>
 
 ---
 
 ## 📊 GitHub Activity Graph
 
-![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BellukChips&theme=github-dark)
+![BellukChips GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BellukChips&theme=github-dark)
 
 ---
 
@@ -83,7 +83,7 @@ Mobile & Web Developer with 1+ years of experience in building applications base
   <a href="https://instagram.com/lukman_code">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="[https://www.linkedin.com/in/aditya-anugrah](https://www.linkedin.com/in/muh-lukman-akbar-prihandoyo/)">
+  <a href="[https://www.linkedin.com/in/muh-lukman-akbar-prihandoyo](https://www.linkedin.com/in/muh-lukman-akbar-prihandoyo/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -94,7 +94,7 @@ Mobile & Web Developer with 1+ years of experience in building applications base
 
 <p align="center">
   <a href="https://github.com/sponsors/BellukChips">
-    <img src="https://img.shields.io/badge/GitHub_Sponsors-adityaanugrah-EA4AAA?logo=githubsponsors" alt="GitHub Sponsors - adityaanugrah" />
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-Bellukchips-EA4AAA?logo=githubsponsors" alt="GitHub Sponsors - BellukChips" />
   </a>
 </p>
 
